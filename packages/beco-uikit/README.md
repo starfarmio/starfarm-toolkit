@@ -12,7 +12,7 @@ BecoSwap UIkit is a set of React components and hooks used to build pages on Bec
 
 ### Theme
 
-Before using Pancake UIkit, you need to provide the theme file to styled-component.
+Before using Becoswap UIkit, you need to provide the theme file to styled-component.
 
 ```
 import { ThemeProvider } from 'styled-components'
