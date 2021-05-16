@@ -5,7 +5,7 @@ This repository is a monorepo manage with [yarn workspaces](https://classic.yarn
 ## Packages
 
 - [pancake-uikit](https://github.com/becoswap/becoswap-toolkit/tree/master/packages/pancake-uikit) : React components used to build the Pancake UI
-- [eslint-config-pancake](https://github.com/becoswap/becoswap-toolkit/tree/master/packages/eslint-config-pancake) : An ESLint config for pancake, with Typescript and Prettier support
+- [eslint-config-beco](https://github.com/becoswap/becoswap-toolkit/tree/master/packages/eslint-config-beco) : An ESLint config for beco, with Typescript and Prettier support
 
 ## How to use
 
