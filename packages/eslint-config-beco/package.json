@@ -1,6 +1,6 @@
 {
   "name": "@becoswap-libs/eslint-config-beco",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Eslint config for BecoSwap",
   "main": "lib/index.js",
   "files": [
