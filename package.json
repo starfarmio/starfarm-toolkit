@@ -1,20 +1,20 @@
 {
-  "name": "becoswap-toolkit",
+  "name": "starfarm-toolkit",
   "version": "1.0.0",
-  "description": "BecoSwap frontend packages",
+  "description": "Starfarm frontend packages",
   "private": true,
   "workspaces": [
     "packages/*"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/becoswap/becoswap-toolkit.git"
+    "url": "git+https://github.com/starfarmio/starfarm-toolkit.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/becoswap/becoswap-toolkit/issues"
+    "url": "https://github.com/starfarmio/starfarm-toolkit/issues"
   },
-  "homepage": "https://github.com/becoswap/becoswap-toolkit#readme",
+  "homepage": "https://github.com/starfarmio/starfarm-toolkit#readme",
   "scripts": {
     "build": "lerna run build",
     "test": "lerna run test",
