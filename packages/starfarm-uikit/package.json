@@ -1,14 +1,14 @@
 {
-  "name": "@becoswap-libs/uikit",
-  "version": "1.0.3",
-  "description": "Set of UI components for becoswap projects",
+  "name": "@starfarm-libs/uikit",
+  "version": "1.0.0",
+  "description": "Set of UI components for starfarm projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/becoswap/becoswap-toolkit/tree/master/packages/becoswap-uikit",
+  "repository": "https://github.com/starfarmio/starfarm-toolkit/tree/master/packages/starfarm-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",
